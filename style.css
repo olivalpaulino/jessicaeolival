@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    height: 300px;
+    color: 1px solid greenyellow;
+}
+
+.imagem-card {
+    width: 230px;
+    height: 230px;
+}
