@@ -23,6 +23,7 @@ h1, h2, p {
 #selecionarsecao {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
