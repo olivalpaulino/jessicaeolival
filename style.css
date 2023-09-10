@@ -18,6 +18,8 @@ header {
 
 #jessicaeolival {
     width: 150px;
+    border-radius: 100px;
+    background-color: white;
 }
 
 h1, h2, p {
