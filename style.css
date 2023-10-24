@@ -25,6 +25,10 @@ h1, h2, p {
     font-family: 'Great Vibes', cursive;
 }
 
+#pix {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .card {
     display: flex;
     flex-direction: column;
